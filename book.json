@@ -1,28 +1,97 @@
 {
     "root": "./",
-    "title": "示例文档",
-    "head_title": "_示例文档_字条网",
-    "head_description": "字条网示例文档",
-    "head_keywords": "字条,字条网,示例文档",
-    "logo": "./images/logo.png",
+    "title": "区块链技术文档",
+    "description": "深入浅出区块链,区块链文档",
+    "head_title": "_区块链Wiki_深入浅出区块链",
+
+    "head_keywords": "区块链技术百科,区块链Wiki,区块链",
+    "author": "Tiny熊",
 
     "gitbook": ">= 3.0.0",
 
     "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "小专栏": "http://learnblockchain.cn"
+        }
+    },
 
     "plugins": [
-        "-sharing",
-        "-fontsettings",
+        "fontsettings",
         "-lunr",
         "-search",
         "search-pro",
         "theme-official",
-        "sitemap-general"
+        "sitemap-general",
+        "-sharing",
+        "sharing-plus",
+        "prism",
+        "donate",
+        "github",
+        "anchor-navigation-ex",
+        "splitter"
     ],
 
     "pluginsConfig": {
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "weibo", "qq", "qzone", "google", "douban"
+            ]
+        },
+        "github": {
+            "url": "git@github.com:xilibi2003/wiki.blockchain.git"
+        },
+        "donate": {
+            "wechat": "http://learnblockchain.cn/images/qr_pay.jpg",
+            "title": "",
+            "button": "赏",
+            "wechatText": "微信打赏"
+        },
         "sitemap-general": {
-            "prefix": "http://zitiao.org/simple/"
+            "prefix": "http://wiki.learnblockchain.cn/"
+        },
+        "anchor-navigation-ex": {
+            "associatedWithSummary": false,
+            "showLevel": true,
+            "multipleH1": true,
+            "mode": "float",
+
+            "pageTop": {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
+        },
+        "theme-default": {
+            "showLevel": true
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "serif",
+            "size": 2
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-tomorrow.css"
+            ]
         }
     }
 }
