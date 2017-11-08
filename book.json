@@ -2,9 +2,6 @@
     "root": "./",
     "title": "区块链技术文档",
     "description": "深入浅出区块链,区块链文档",
-    "head_title": "_区块链Wiki_深入浅出区块链",
-
-    "head_keywords": "区块链技术百科,区块链Wiki,区块链",
     "author": "Tiny熊",
 
     "gitbook": ">= 3.0.0",
@@ -17,19 +14,16 @@
     },
 
     "plugins": [
-        "fontsettings",
-        "-lunr",
-        "-search",
-        "search-pro",
-        "theme-official",
-        "sitemap-general",
+        "github",
+        "donate",
+        "splitter",
+        "anchor-navigation-ex",
         "-sharing",
         "sharing-plus",
+        "-highlight",
         "prism",
-        "donate",
-        "github",
-        "anchor-navigation-ex",
-        "splitter"
+        "sitemap-general",
+        "fontsettings"
     ],
 
     "pluginsConfig": {
@@ -52,11 +46,11 @@
             "weibo": false,
             "whatsapp": false,
             "all": [
-                "weibo", "qq", "qzone", "google", "douban"
+                "weibo", "qq", "qzone", "douban"
             ]
         },
         "github": {
-            "url": "git@github.com:xilibi2003/wiki.blockchain.git"
+            "url": "http://github.com:xilibi2003"
         },
         "donate": {
             "wechat": "http://learnblockchain.cn/images/qr_pay.jpg",
