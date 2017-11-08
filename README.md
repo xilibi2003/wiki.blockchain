@@ -1,2 +1,5 @@
-# Introduction
-深入浅出区块链
+# 深入浅出区块链Wiki
+深入浅出区块链Wiki 基于GitBook搭建
+
+## 博客说明 
+* [阅读指引](阅读指引.md)

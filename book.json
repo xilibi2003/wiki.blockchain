@@ -1,7 +1,7 @@
 {
     "root": "./",
-    "title": "区块链技术文档",
-    "description": "深入浅出区块链,区块链文档",
+    "title": "深入浅出区块链文档",
+    "description": "深入浅出区块链",
     "author": "Tiny熊",
 
     "gitbook": ">= 3.0.0",
@@ -9,7 +9,7 @@
     "language": "zh-hans",
     "links": {
         "sidebar": {
-            "小专栏": "http://learnblockchain.cn"
+            "主页": "http://learnblockchain.cn"
         }
     },
 
@@ -17,13 +17,17 @@
         "github",
         "donate",
         "splitter",
+        "anchors",
         "anchor-navigation-ex",
         "-sharing",
         "sharing-plus",
         "-highlight",
         "prism",
         "sitemap-general",
-        "fontsettings"
+        "fontsettings",
+        "tbfed-pagefooter",
+        "cnzz",
+        "favicon"
     ],
 
     "pluginsConfig": {
@@ -75,7 +79,7 @@
             }
         },
         "theme-default": {
-            "showLevel": true
+            "showLevel": false
         },
         "fontsettings": {
             "theme": "white",
@@ -86,6 +90,20 @@
             "css": [
                 "prismjs/themes/prism-tomorrow.css"
             ]
+        },
+        "tbfed-pagefooter": {
+            "copyright": " &copy 2017 Tiny熊",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm"
+        },
+        "cnzz": {
+            "visible": true,
+            "style": "0",
+            "siteid": "1265946080"
+        },
+        "favicon": {
+            "shortcut": "favicon.ico",
+            "bookmark": "favicon.ico"
         }
     }
 }
