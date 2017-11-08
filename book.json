@@ -1,0 +1,28 @@
+{
+    "root": "./",
+    "title": "示例文档",
+    "head_title": "_示例文档_字条网",
+    "head_description": "字条网示例文档",
+    "head_keywords": "字条,字条网,示例文档",
+    "logo": "./images/logo.png",
+
+    "gitbook": ">= 3.0.0",
+
+    "language": "zh-hans",
+
+    "plugins": [
+        "-sharing",
+        "-fontsettings",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "theme-official",
+        "sitemap-general"
+    ],
+
+    "pluginsConfig": {
+        "sitemap-general": {
+            "prefix": "http://zitiao.org/simple/"
+        }
+    }
+}
