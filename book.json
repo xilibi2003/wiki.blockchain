@@ -32,7 +32,7 @@
 
     "pluginsConfig": {
         "sharing": {
-            "douban": false,
+            "douban": true,
             "facebook": false,
             "google": false,
             "hatenaBookmark": false,
@@ -47,7 +47,7 @@
             "twitter": false,
             "viber": false,
             "vk": false,
-            "weibo": false,
+            "weibo": true,
             "whatsapp": false,
             "all": [
                 "weibo", "qq", "qzone", "douban"
