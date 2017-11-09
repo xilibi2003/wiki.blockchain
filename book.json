@@ -58,8 +58,8 @@
         },
         "donate": {
             "wechat": "http://learnblockchain.cn/images/qr_pay.jpg",
-            "title": "",
-            "button": "赏",
+            "title": "博主辛苦，赞赏下",
+            "button": "打赏",
             "wechatText": "微信打赏"
         },
         "sitemap-general": {
