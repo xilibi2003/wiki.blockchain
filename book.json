@@ -1,7 +1,7 @@
 {
     "root": "./",
     "title": "深入浅出区块链文档",
-    "description": "深入浅出区块链",
+    "description": "整理博客文章，区块链相关术语、书籍、文档，开发资料，开源项目等",
     "author": "Tiny熊",
 
     "gitbook": ">= 3.0.0",
