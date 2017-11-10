@@ -32,7 +32,7 @@
 
     "pluginsConfig": {
         "sharing": {
-            "douban": true,
+            "douban": false,
             "facebook": false,
             "google": false,
             "hatenaBookmark": false,
@@ -50,11 +50,11 @@
             "weibo": true,
             "whatsapp": false,
             "all": [
-                "weibo", "qq", "qzone", "douban", "twitter"
+                "weibo", "twitter"
             ]
         },
         "github": {
-            "url": "http://github.com:xilibi2003"
+            "url": "https://github.com/xilibi2003"
         },
         "donate": {
             "wechat": "http://learnblockchain.cn/images/qr_pay.jpg",
@@ -102,8 +102,8 @@
             "siteid": "1265946080"
         },
         "favicon": {
-            "shortcut": "favicon.ico",
-            "bookmark": "favicon.ico"
+            "shortcut": "images/favicon.ico",
+            "bookmark": "images/favicon.ico"
         }
     }
 }
