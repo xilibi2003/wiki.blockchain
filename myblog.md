@@ -12,6 +12,7 @@
 ### 比特币进阶篇
 
 * [分析比特币网络：一种去中心化、点对点的网络架构](http://learnblockchain.cn/2017/11/07/bitcoin-p2p/)
+* [比特币脚本及交易分析 - 智能合约雏形](http://learnblockchain.cn/2017/11/10/bitcoin-script/)
 * [比特币区块结构 Merkle 树及简单支付验证分析](https://xiaozhuanlan.com/topic/1402935768)
 
 ### 实践篇
