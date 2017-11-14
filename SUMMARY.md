@@ -1,7 +1,8 @@
 # Summary
 * [Wiki介绍](README.md)
 * [博客阅读说明](myblog.md)
-* [术语解释](GLOSSARY.md)
+* [比特币术语解释](GLOSSARY.md)
+* [以太坊术语解释](GLOSSARY_eth.md)
 * [术语中英对照](en_zh.md)
 
 ## 技术
