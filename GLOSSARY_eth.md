@@ -2,6 +2,7 @@
 
 区块链技术相关表包含了常见的区块链术语及其解释，及进一步阅读参考文章，以加深理解。
 方便大家阅读博客或网络上其他文章时做快速索引。，比特币相关术语参考[比特币篇](http://wiki.learnblockchain.cn/GLOSSARY.html)
+
 本文将不断更新，转载请注明出处：[深入浅出区块链](http://wiki.learnblockchain.cn/GLOSSARY_eth.html)
 
 
