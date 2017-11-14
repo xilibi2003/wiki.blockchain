@@ -1,3 +1,5 @@
 ## 开源项目
 
-[以太坊](https://github.com/ethereum)
+
+* [比特币](https://bitcoin.org/zh_CN/)
+* [以太坊官网](https://www.ethereum.org/)
