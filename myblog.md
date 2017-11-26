@@ -24,3 +24,6 @@
 ## 以太坊
 ### 基础篇
 * [以太坊开发入门](https://learnblockchain.cn/2017/11/20/whatiseth/)
+
+### 实践篇
+* [智能合约开发环境搭建及Hello World合约](https://learnblockchain.cn/2017/11/24/init-env/)
