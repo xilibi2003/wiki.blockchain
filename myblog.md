@@ -10,7 +10,6 @@
 * [比特币所有权及隐私问题](https://learnblockchain.cn/2017/11/02/bitcoin-own/)
 * [比特币如何挖矿](https://learnblockchain.cn/2017/11/04/bitcoin-pow/)
 
-
 ### 进阶篇
 
 * [分析比特币网络：一种去中心化、点对点的网络架构](https://learnblockchain.cn/2017/11/07/bitcoin-p2p/)

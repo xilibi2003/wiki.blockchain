@@ -13,7 +13,15 @@
 一套以数字形式定义的承诺（promises），包括合约参与方可以在上面执行这些承诺的协议。
 
 #### Solidity
-是以太坊中用于开发智能合约的编程语言。开发智能合约入门可参考[智能合约开发环境搭建及Hello World合约](https://learnblockchain.cn/2017/11/24/init-env/)
+是以太坊中用于开发智能合约的编程语言，目前开发智能合约用的最多的是Solidity。开发智能合约入门可参考[智能合约开发环境搭建及Hello World合约](https://learnblockchain.cn/2017/11/24/init-env/)。
+
+#### Serpent
+一门智能合约的编程语言，不再建议使用，建议转换到Viper。
+
+#### Viper
+ 一门智能合约的编程语言，Vitalik最推崇的语言。取代Solidity的地位也是有可能的
+ [官方文档](https://viper.readthedocs.io/en/latest/index.html) 
+
 
 #### 以太坊客户端
 也称钱包，提供账户管理、挖矿、转账、智能合约的部署和执行等等功能，以太坊节点利用以太坊客户端接入到以太坊网络。
