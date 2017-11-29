@@ -3,7 +3,6 @@
 区块链技术相关表包含了常见的区块链术语（概念）及其解释，及进一步阅读参考文章，以加深理解。
 方便大家阅读博客或网络上其他文章时做快速索引，比特币相关术语参考[比特币篇](http://wiki.learnblockchain.cn/GLOSSARY.html)
 
-本文将不断更新，转载请注明出处：[深入浅出区块链](http://wiki.learnblockchain.cn/GLOSSARY_eth.html) 
 
 #### 以太坊
 一个基于区块链的去中心化应用平台。阅读[以太坊开发入门指南](https://learnblockchain.cn/2017/11/20/whatiseth/)了解更多
@@ -24,8 +23,8 @@
 一门智能合约的编程语言，不再建议使用，建议转换到Viper。
 
 #### Viper
- 一门智能合约的编程语言，Vitalik最推崇的语言。取代Solidity的地位也是有可能的
- [官方文档](https://viper.readthedocs.io/en/latest/index.html) 
+ 一门智能合约的编程语言，Vitalik最推崇的语言。取代Solidity的地位也是有可能的。
+[官方文档](https://viper.readthedocs.io/en/latest/index.html) 
 
 #### Transaction 交易
 包含一系列价值的转移，从一个地址转到另一个。
@@ -38,7 +37,7 @@
 现在以太坊客户端主要有：Wallent/ist ， Geth， Parity， Harmony
 
 #### Geth
-开发中使用最广泛的客户端。
+开发中使用最广泛的客户端。 了解[geth命令用法](https://learnblockchain.cn/2017/11/29/geth_cmd_options/)
 
 #### Gas
 以太坊上用Gas机制来计费，Gas也可以认为是一个工作量单位，智能合约越复杂（计算步骤的数量和类型，占用的内存等），用来完成运行就需要越多Gas。
@@ -76,7 +75,7 @@ Greedy Heaviest Observed Subtree, GHOST协议就是让我们必须选择一个�
 作为验证节点，首先你必须拥有一定数量的以太币，根据以太币的数量和时间会产生用于下注验证区块的权益。只有拥有权益的节点才能有效验证区块，当你验证的区块被打包进链，你将获得和你权益成正比的区块奖励。如果你验证恶意或错误的区块，那么你所下注的权益将被扣除。
 
 #### Casper 的共识算法
-以太坊中PoS协议的实现， 刚开始每100个区块将有一个采用 PoS 协议挖出
+以太坊中PoS协议的实现， 刚开始每100个区块将有一个采用PoS协议挖出
 
 #### 抽象账户
 在的以太坊有两类账户：即外部账户和合约账户，以太坊正在试图模糊二者的界限，即你可以同时拥有合约账户和外部账户，这种做法本质上就是让用户按照合约账户的格式来定义外部账户。
@@ -120,4 +119,6 @@ Ommers的目的就是为了帮助奖励矿工纳入这些孤区块，Ommer区块
 #### Ropsten测试网络
 一个测试网络 
 
+
 注：与比特币相关公共术语请查看[比特币篇](http://wiki.learnblockchain.cn/GLOSSARY.html)
+本文将不断更新，转载请注明出处：[深入浅出区块链](http://wiki.learnblockchain.cn/GLOSSARY_eth.html) 
