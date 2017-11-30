@@ -2,8 +2,9 @@
 
 
 ## 工具篇
-[Solidity实时编译器](https://ethereum.github.io/browser-solidity)
-
+* [Solidity实时编译器](https://ethereum.github.io/browser-solidity)
+* [以太坊信息查询etherscan](http://etherscan.io/)
+* [以太坊状态-ethstats](https://ethstats.net/)
 
 ## 源码
 * 简单的区块链Go实现

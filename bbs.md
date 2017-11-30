@@ -6,6 +6,11 @@
 * [区块链大学](https://www.qkldx.net/)
 * [因特链](http://chainx.org/)
 
+## 英文社区博客
+* [以太坊官方博客](https://blog.ethereum.org)
+* [以太坊官方论坛](https://forum.ethereum.org)
+* [以太坊官方Wiki](https://github.com/ethereum/wiki/wiki)
+
 ## 相关大牛名人
 
 ### 神级人物
