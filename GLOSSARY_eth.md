@@ -7,8 +7,10 @@
 #### 以太坊
 一个基于区块链的去中心化应用平台。阅读[以太坊开发入门指南](https://learnblockchain.cn/2017/11/20/whatiseth/)了解更多
 
-#### 以太（Ether）
-以太坊网络的内部基础的加密代币。以太是用来支付交易和以太坊交易的计算费用。
+#### 以太币（Ether）
+以太币是以太坊中货币的名称。以太币是用来支付交易和以太坊交易的计算费用。
+ether也认为是以太币的单位，另一个常用的单位是wei。
+1ether=1e18wei (1,000,000,000,000,000,000wei)
 
 #### 智能合约
 一套以数字形式定义的承诺（promises），包括合约参与方可以在上面执行这些承诺的协议。
@@ -20,7 +22,7 @@
 是以太坊中用于开发智能合约的编程语言，目前开发智能合约用的最多的是Solidity。开发智能合约入门可参考[智能合约开发环境搭建及Hello World合约](https://learnblockchain.cn/2017/11/24/init-env/)。
 
 #### Serpent
-一门智能合约的编程语言，不再建议使用，建议转换到Viper。
+一门智能合约的编程语言，语法类似Python，不再建议使用，建议转换到Viper。
 
 #### Viper
  一门智能合约的编程语言，Vitalik最推崇的语言。取代Solidity的地位也是有可能的。
@@ -34,13 +36,28 @@
 
 #### 以太坊客户端
 也称钱包，提供账户管理、挖矿、转账、智能合约的部署和执行等等功能，以太坊节点利用以太坊客户端接入到以太坊网络。
-现在以太坊客户端主要有：Wallent/ist ， Geth， Parity， Harmony
+现在以太坊客户端主要有：Wallent/Mist ， Geth， Parity， Harmony，pyethapp等
 
 #### Geth
-开发中使用最广泛的客户端。 了解[geth命令用法](https://learnblockchain.cn/2017/11/29/geth_cmd_options/)
+开发中使用最广泛的客户端，使用Go语言实现。 了解[geth命令用法](https://learnblockchain.cn/2017/11/29/geth_cmd_options/)
+
+#### Parity
+另一个较为常用的客户端，用Rust实现。
+
+#### web3.js
+web3.js是一个实现与以太坊节点JSON-RPC通信的JavaScript库。类似还有Java库web3j。
+geth提供的JavaScript控制台中，就包含的web3.js库事例web3。
+
 
 #### Gas
 以太坊上用Gas机制来计费，Gas也可以认为是一个工作量单位，智能合约越复杂（计算步骤的数量和类型，占用的内存等），用来完成运行就需要越多Gas。
+
+#### etherbase
+在你的节点上的主账户默认名字，如果你在挖矿，那么挖矿的回报会被放到这个账户中。
+#### coinbase
+Coinbase是一个和etherbase类似的概念，但是对于众多的加密货币平台而言coinbase是一个更通用的术语。
+#### balance(余额)
+账户余额
 
 #### GHOST协议
 Greedy Heaviest Observed Subtree, GHOST协议就是让我们必须选择一个在其上完成计算最多的路径。一个方法确定路径就是使用最近一个区块（叶子区块）的区块号，区块号代表着当前路径上总的区块数（不包含创世纪区块）。区块号越大，路径就会越长，就说明越多的挖矿算力被消耗在此路径上以达到叶子区块。使用这种推理就可以允许我们赞同当前状态的权威版本。
@@ -115,11 +132,15 @@ Ommers的目的就是为了帮助奖励矿工纳入这些孤区块，Ommer区块
 #### 测试网络
 以太坊用来测试功能的网络，比如拜占庭分叉之前先在测试网络（Ropsten）上运行一段时间，稳定后再发布到公有链（正式网络）。
 以太坊测试网络有：
-* Olympic测试网络 - 早期的一个测试网络，已不再使用
+* Olympic测试网络 - 早期的一个（预发布版本）测试网络，已不再使用
+* Morden测试网络 - 以太坊第一个测试网络，已不再使用
 * Ropsten测试网络 - 使用Pow，和当前的公有链环境一致，2016/11发布。
 * Kovan测试网络 - 仅parity钱包支持，使用PoA共识
 * Rinkeby测试网络 - 仅parity钱包支持，使用PoA共识
 不同网络的特点可进一步查看这个[问答](https://ethereum.stackexchange.com/questions/27048/comparison-of-the-different-testnets)
+
+#### DAO(decentralized autonomous organization)去中心自治组织
+DAO是建立在区块链之上的合约（或一系列合约），旨在制定规则、强制执行或使组织工作自动化，包括治理、筹资、运营、支出和扩张。
 
 
 注：与比特币相关公共术语请查看[比特币篇](http://wiki.learnblockchain.cn/GLOSSARY.html)
