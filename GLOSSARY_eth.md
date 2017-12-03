@@ -136,7 +136,7 @@ Ommers的目的就是为了帮助奖励矿工纳入这些孤区块，Ommer区块
 * Morden测试网络 - 以太坊第一个测试网络，已不再使用
 * Ropsten测试网络 - 使用Pow，和当前的公有链环境一致，2016/11发布。
 * Kovan测试网络 - 仅parity钱包支持，使用PoA共识
-* Rinkeby测试网络 - 仅parity钱包支持，使用PoA共识
+* Rinkeby测试网络 - 仅geth钱包支持，使用PoA共识
 不同网络的特点可进一步查看这个[问答](https://ethereum.stackexchange.com/questions/27048/comparison-of-the-different-testnets)
 
 #### DAO(decentralized autonomous organization)去中心自治组织
