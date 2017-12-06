@@ -10,7 +10,6 @@
 * [以太坊白皮书中文版](http://ethfans.org/posts/ethereum-whitepaper)
 * [以太坊 Homestead 文档](http://ethdoc.cn/)
 * [solidity文档](https://solidity.readthedocs.io/en/latest/)
-* [Solidity 官方文档中文版](http://wiki.jikexueyuan.com/project/solidity-zh/)  翻译进行中...
 * [Viper官方文档](https://viper.readthedocs.io/en/latest/index.html)
 * [Truffle官方文档](http://truffleframework.com/docs/)
 
