@@ -13,6 +13,7 @@
 * [区块链记账原理](https://learnblockchain.cn/2017/10/25/whatbc/) 
 * [比特币所有权及隐私问题](https://learnblockchain.cn/2017/11/02/bitcoin-own/)
 * [比特币如何挖矿](https://learnblockchain.cn/2017/11/04/bitcoin-pow/)
+* [比特币如何达成共识](https://learnblockchain.cn/2017/12/07/bitcoin-sonsensus/)
 
 #### 进阶篇
 
