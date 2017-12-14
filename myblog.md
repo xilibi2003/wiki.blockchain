@@ -33,4 +33,7 @@
 * [智能合约开发环境搭建及Hello World合约](https://learnblockchain.cn/2017/11/24/init-env/)
 * [以太坊客户端Geth命令用法-参数详解](https://learnblockchain.cn/2017/11/29/geth_cmd_options)
 * [Geth控制台使用实战及Web3.js使用](https://learnblockchain.cn/2017/12/01/geth_cmd_short/#more)
-* [Solidity语法详解 - 类型介绍1](https://learnblockchain.cn/2017/12/05/solidity1/)
+##### 智能合约开发语言 Solidity 教程系列
+* [系列1 - 类型介绍](https://learnblockchain.cn/2017/12/05/solidity1/)
+* [系列2 - 地址类型介绍](https://learnblockchain.cn/2017/12/12/solidity2/)
+* [系列3 - 函数类型介绍](https://learnblockchain.cn/2017/12/12/solidity_func/)
