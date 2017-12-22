@@ -37,3 +37,4 @@
 * [系列1 - 类型介绍](https://learnblockchain.cn/2017/12/05/solidity1/)
 * [系列2 - 地址类型介绍](https://learnblockchain.cn/2017/12/12/solidity2/)
 * [系列3 - 函数类型介绍](https://learnblockchain.cn/2017/12/12/solidity_func/)
+* [系列4 - 数据存储位置分析](https://learnblockchain.cn/2017/12/21/solidity_reftype_datalocation/)
