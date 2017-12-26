@@ -143,5 +143,7 @@ Ommers的目的就是为了帮助奖励矿工纳入这些孤区块，Ommer区块
 DAO是建立在区块链之上的合约（或一系列合约），旨在制定规则、强制执行或使组织工作自动化，包括治理、筹资、运营、支出和扩张。
 
 
+
+
 注：与比特币相关公共术语请查看[比特币篇](http://wiki.learnblockchain.cn/GLOSSARY.html)
 本文将不断更新，转载请注明出处：[深入浅出区块链](http://wiki.learnblockchain.cn/GLOSSARY_eth.html) 
