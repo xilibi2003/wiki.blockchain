@@ -33,9 +33,16 @@
 * [智能合约开发环境搭建及Hello World合约](https://learnblockchain.cn/2017/11/24/init-env/)
 * [以太坊客户端Geth命令用法-参数详解](https://learnblockchain.cn/2017/11/29/geth_cmd_options)
 * [Geth控制台使用实战及Web3.js使用](https://learnblockchain.cn/2017/12/01/geth_cmd_short/#more)
+* [一步步教你创建自己的数字货币（代币）进行ICO](https://learnblockchain.cn/2018/01/12/create_token/)
+* [一步步教你开发、部署第一个去中心化应用(Dapp)](https://learnblockchain.cn/2018/01/12/first-dapp/)
+
 ##### 智能合约开发语言 Solidity 教程系列
 * [系列1 - 类型介绍](https://learnblockchain.cn/2017/12/05/solidity1/)
 * [系列2 - 地址类型介绍](https://learnblockchain.cn/2017/12/12/solidity2/)
 * [系列3 - 函数类型介绍](https://learnblockchain.cn/2017/12/12/solidity_func/)
 * [系列4 - 数据存储位置分析](https://learnblockchain.cn/2017/12/21/solidity_reftype_datalocation/)
 * [系列5 - 数组介绍](https://learnblockchain.cn/2017/12/21/solidity-arrays/)
+* [系列6 - 结构体与映射](https://learnblockchain.cn/2017/12/27/solidity-structs/)
+
+
+区块链技术付费交流群，有需要加入的同学请加微信：xlbxiong
