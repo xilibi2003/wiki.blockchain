@@ -34,6 +34,7 @@
 * [以太坊客户端Geth命令用法-参数详解](https://learnblockchain.cn/2017/11/29/geth_cmd_options)
 * [Geth控制台使用实战及Web3.js使用](https://learnblockchain.cn/2017/12/01/geth_cmd_short/#more)
 * [一步步教你创建自己的数字货币（代币）进行ICO](https://learnblockchain.cn/2018/01/12/create_token/)
+* [实现一个可管理、增发、兑换、冻结等高级功能的代币](https://learnblockchain.cn/2018/01/27/create-token2/)
 * [一步步教你开发、部署第一个去中心化应用(Dapp)](https://learnblockchain.cn/2018/01/12/first-dapp/)
 
 ##### 智能合约开发语言 Solidity 教程系列
