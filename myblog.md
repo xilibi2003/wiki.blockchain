@@ -36,6 +36,7 @@
 * [一步步教你创建自己的数字货币（代币）进行ICO](https://learnblockchain.cn/2018/01/12/create_token/)
 * [实现一个可管理、增发、兑换、冻结等高级功能的代币](https://learnblockchain.cn/2018/01/27/create-token2/)
 * [一步步教你开发、部署第一个去中心化应用(Dapp)](https://learnblockchain.cn/2018/01/12/first-dapp/)
+* [如何通过以太坊智能合约来进行众筹（ICO）](https://learnblockchain.cn/2018/02/28/ico-crowdsale/)
 
 ##### 智能合约开发语言 Solidity 教程系列
 * [系列1 - 类型介绍](https://learnblockchain.cn/2017/12/05/solidity1/)
@@ -44,6 +45,10 @@
 * [系列4 - 数据存储位置分析](https://learnblockchain.cn/2017/12/21/solidity_reftype_datalocation/)
 * [系列5 - 数组介绍](https://learnblockchain.cn/2017/12/21/solidity-arrays/)
 * [系列6 - 结构体与映射](https://learnblockchain.cn/2017/12/27/solidity-structs/)
+* [系列7 - 以太单位及时间单位](https://learnblockchain.cn/2018/02/02/solidity-unit/)
 
+## 说明
+知识星球[《深入浅出区块链》](https://t.xiaomiquan.com/RfAu7uj)及微信技术交流群, 主要用来提供一个学习的问答及交流平台，问答交流内容不限于博客文章。
+目前定价149，有需要加入的同学请加微信：xlbxiong
 
-区块链技术付费交流群，有需要加入的同学请加微信：xlbxiong
+[深入浅出区块链](https://learnblockchain.cn/) - 系统学习区块链，打造最好的区块链技术博客。
