@@ -28,17 +28,19 @@
 ### 以太坊
 #### 基础篇
 * [以太坊开发入门](https://learnblockchain.cn/2017/11/20/whatiseth/)
-
-#### 开发篇
 * [智能合约开发环境搭建及Hello World合约](https://learnblockchain.cn/2017/11/24/init-env/)
 * [以太坊客户端Geth命令用法-参数详解](https://learnblockchain.cn/2017/11/29/geth_cmd_options)
 * [Geth控制台使用实战及Web3.js使用](https://learnblockchain.cn/2017/12/01/geth_cmd_short/#more)
+* [如何搭建以太坊私有链](https://learnblockchain.cn/2018/03/18/create_private_blockchain/)
+
+##### 智能合约开发语言 
 * [一步步教你创建自己的数字货币（代币）进行ICO](https://learnblockchain.cn/2018/01/12/create_token/)
 * [实现一个可管理、增发、兑换、冻结等高级功能的代币](https://learnblockchain.cn/2018/01/27/create-token2/)
 * [一步步教你开发、部署第一个去中心化应用(Dapp)](https://learnblockchain.cn/2018/01/12/first-dapp/)
 * [如何通过以太坊智能合约来进行众筹（ICO）](https://learnblockchain.cn/2018/02/28/ico-crowdsale/)
+* [剖析非同质化代币ERC721--全面解析ERC721标准](https://learnblockchain.cn/2018/03/23/token-erc721/)
 
-##### 智能合约开发语言 Solidity 教程系列
+##### Solidity 教程系列
 * [系列1 - 类型介绍](https://learnblockchain.cn/2017/12/05/solidity1/)
 * [系列2 - 地址类型介绍](https://learnblockchain.cn/2017/12/12/solidity2/)
 * [系列3 - 函数类型介绍](https://learnblockchain.cn/2017/12/12/solidity_func/)
@@ -46,6 +48,7 @@
 * [系列5 - 数组介绍](https://learnblockchain.cn/2017/12/21/solidity-arrays/)
 * [系列6 - 结构体与映射](https://learnblockchain.cn/2017/12/27/solidity-structs/)
 * [系列7 - 以太单位及时间单位](https://learnblockchain.cn/2018/02/02/solidity-unit/)
+* [系列8 - Solidity API](https://learnblockchain.cn/2018/03/14/solidity-api/)
 
 ## 说明
 知识星球[《深入浅出区块链》](https://t.xiaomiquan.com/RfAu7uj)及微信技术交流群, 主要用来提供一个学习的问答及交流平台，问答交流内容不限于博客文章。
