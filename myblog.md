@@ -39,6 +39,9 @@
 * [一步步教你开发、部署第一个去中心化应用(Dapp)](https://learnblockchain.cn/2018/01/12/first-dapp/)
 * [如何通过以太坊智能合约来进行众筹（ICO）](https://learnblockchain.cn/2018/02/28/ico-crowdsale/)
 * [剖析非同质化代币ERC721--全面解析ERC721标准](https://learnblockchain.cn/2018/03/23/token-erc721/)
+* [Web3与智能合约交互实战](https://learnblockchain.cn/2018/04/15/web3-html/)
+* [如何编写一个可升级的智能合约](https://learnblockchain.cn/2018/03/15/contract-upgrade/)
+* [美链BEC合约漏洞技术分析](https://learnblockchain.cn/2018/04/25/bec-overflow/)
 
 ##### Solidity 教程系列
 * [系列1 - 类型介绍](https://learnblockchain.cn/2017/12/05/solidity1/)
@@ -49,6 +52,15 @@
 * [系列6 - 结构体与映射](https://learnblockchain.cn/2017/12/27/solidity-structs/)
 * [系列7 - 以太单位及时间单位](https://learnblockchain.cn/2018/02/02/solidity-unit/)
 * [系列8 - Solidity API](https://learnblockchain.cn/2018/03/14/solidity-api/)
+* [Solidity 教程系列9 - 错误处理](https://learnblockchain.cn/2018/04/07/solidity-errorhandler/)
+* [Solidity 教程系列10 - 完全理解函数修改器](https://learnblockchain.cn/2018/04/09/solidity-modify/)
+
+* [智能合约最佳实践 之 Solidity 编码规范](https://learnblockchain.cn/2018/05/04/solidity-style-guide/)
+
+
+### 柚子EOS
+
+* [什么是EOS（柚子）](https://learnblockchain.cn/2018/07/17/whatiseos/)
 
 ## 说明
 知识星球[《深入浅出区块链》](https://t.xiaomiquan.com/RfAu7uj)及微信技术交流群, 主要用来提供一个学习的问答及交流平台，问答交流内容不限于博客文章。

@@ -6,6 +6,7 @@
 * [以太坊术语解释](GLOSSARY_eth.md)
 
 ## 技术
+* [视频课程](video.md)
 * [文档资料](resource.md)
 * [开发工具](dev.md)
 

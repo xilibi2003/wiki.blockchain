@@ -14,6 +14,9 @@ Wiki主要包含以下几个部分：
 ### [开源项目介绍](opensource.md)
 如比特币，以太坊，HyperLedger等。
 
+### [视频课程](video.md)
+分享区块链干货视频
+
 ### [资料分享](resource.md)
 提供各种白皮书，论文检索
 
