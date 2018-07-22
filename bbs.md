@@ -15,7 +15,7 @@
 ### 神级人物
 * 中本聪
 
-  比特币之父，没人知道他是谁
+  比特币之父
 
 * V神-[Vitalik Buterin](https://about.me/vitalik_buterin)
 

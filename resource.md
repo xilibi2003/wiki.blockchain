@@ -14,6 +14,6 @@
 * [Truffle官方文档](http://truffleframework.com/docs/)
 * [Remix 文档](https://remix.readthedocs.io/en/latest/)
 * [Dapps新手入门](https://dappsforbeginners.wordpress.com/)
-
+* [Gas 消耗](OPCODE_Gas.pdf)
 
 

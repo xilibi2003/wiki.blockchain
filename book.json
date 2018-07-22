@@ -57,13 +57,13 @@
             "url": "https://github.com/xilibi2003"
         },
         "donate": {
-            "wechat": "http://learnblockchain.cn/images/qr_pay.jpg",
+            "wechat": "https://learnblockchain.cn/images/qr_pay.jpg",
             "title": "你的赞赏，是我持续输出的动力",
             "button": "打赏",
             "wechatText": "微信打赏"
         },
         "sitemap-general": {
-            "prefix": "http://wiki.learnblockchain.cn/"
+            "prefix": "https://wiki.learnblockchain.cn/"
         },
         "anchor-navigation-ex": {
             "associatedWithSummary": false,
@@ -84,7 +84,7 @@
         "fontsettings": {
             "theme": "white",
             "family": "serif",
-            "size": 2
+            "size": 0.9
         },
         "prism": {
             "css": [
@@ -92,7 +92,7 @@
             ]
         },
         "tbfed-pagefooter": {
-            "copyright": " &copy 2017 Tiny熊",
+            "copyright": " &copy 2018 Tiny熊",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm"
         },
