@@ -5,10 +5,8 @@
 * [开发工具](dev.md)
 
 ## 视频课程
-* [视频说明](class/video.md)
-* [区块链入门-零基础搞懂区块链](class/beginner.md)
-* [通过代币学智能合约](class/token.md)
-
+* [区块链入门-零基础搞懂区块链](course/beginner.md)
+* [通过代币学智能合约](course/token.md)
 
 
 ## 术语
@@ -18,8 +16,5 @@
 
 
 ## 其他
-* [区块链项目](opensource.md) 
+* [区块链项目](opensource.md)
 * [社区/名人](bbs.md)
-
-
-

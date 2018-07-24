@@ -2,7 +2,7 @@
 
 本课程是发币必看，众筹（ICO）必看，通过本课程不仅仅学习到如何发行一个代币（Token 或通证），以及如何进行众筹。
 
-授人予鱼不如授人予渔，本视频通过代币及众筹的编写，学习理解更多Solidity语言的特性，让大家可以触类傍通开发更多功能的智能合约。
+同时通过对代币Token及众筹的介绍，还引申出更多Solidity语言的特性，让大家可以触类傍通开发更多功能的智能合约，正所谓授人予鱼不如授人予渔。
 
 另外，课程的代码也提供了，github地址为[https://github.com/xilibi2003/learnSmartContractByToken](https://github.com/xilibi2003/learnSmartContractByToken)，你可以直接使用这套代码发行自己的代币。
 
@@ -10,9 +10,11 @@
 
 视频由深入浅出区块链博主，以太坊基金会讲师 Tiny熊讲解。
 
+注：需要进登链学院区块链技术交流群的朋友，请加登链课程助理（微信：**upchainedu**），想挑战自己的还可申请成为[课程体验师](https://learnblockchain.cn/course/#%E6%8B%9B%E5%8B%9F%E8%AF%BE%E7%A8%8B%E4%BD%93%E9%AA%8C%E5%B8%88)。
+
 ## [如何获取](http://edu.51cto.com/course/14173.html)
 
-PC端用户可直接前往课程视频地址[http://edu.51cto.com/course/14173.html](http://edu.51cto.com/course/14173.html)学习，还有好消息告诉大家，现在是活动期只要5星评价就可以<strong><span style="color:red;">返一半学费</span></strong>。 学习之后联系登链小哥哥（微信号： **upchainedu**）领取助学<strong><span style="color:red;">现金红包</span></strong>，还可以让登链小哥哥拉你进登链学习群。
+PC端用户可直接前往课程视频地址[http://edu.51cto.com/course/14173.html](http://edu.51cto.com/course/14173.html)学习。
 
 扫码关注登链学院公众号，回复“ERC20”，获取课程。
 ![](../images/token.jpg)

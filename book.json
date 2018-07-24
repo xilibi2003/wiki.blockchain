@@ -84,7 +84,7 @@
         "fontsettings": {
             "theme": "white",
             "family": "serif",
-            "size": 0.9
+            "size": 1.5
         },
         "prism": {
             "css": [
