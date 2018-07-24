@@ -83,8 +83,8 @@
         },
         "fontsettings": {
             "theme": "white",
-            "family": "serif",
-            "size": 1.5
+            "family": "sans",
+            "size": 2
         },
         "prism": {
             "css": [

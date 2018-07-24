@@ -1,4 +1,4 @@
-## [视频课程]区块链入门-零基础搞懂区块链
+## [视频教程]区块链入门-零基础搞懂区块链
 
 
 本课程是零基础入门课，适合所有想进入区块链世界的开发人员及学生群体。
@@ -20,7 +20,7 @@
 
 ## [如何获取视频](http://edu.51cto.com/course/14291.html)
 
-PC端用户可直接前往课程视频地址[http://edu.51cto.com/course/14291.html](http://edu.51cto.com/course/14291.html)学习。
+PC端用户可直接前往视频课程地址[http://edu.51cto.com/course/14291.html](http://edu.51cto.com/course/14291.html)学习。
 
 手机用户可扫码关注登链学院公众号，回复“**01**”，获取课程。
 ![](../images/01.png)
