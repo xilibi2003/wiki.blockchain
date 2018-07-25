@@ -21,6 +21,5 @@
 ## [如何获取视频](http://edu.51cto.com/course/14291.html)
 
 PC端用户可直接前往视频课程地址[http://edu.51cto.com/course/14291.html](http://edu.51cto.com/course/14291.html)学习。
-
-手机用户可扫码关注登链学院公众号，回复“**01**”，获取课程。
-![](../images/01.png)
+手机端直接扫码:
+![](../images/01.jpeg)

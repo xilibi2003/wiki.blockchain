@@ -17,7 +17,7 @@
 PC端用户可直接前往课程视频地址[http://edu.51cto.com/course/14173.html](http://edu.51cto.com/course/14173.html)学习。
 
 扫码关注登链学院公众号，回复“ERC20”，获取课程。
-![](../images/token.jpg)
+![](../images/token.jpeg)
 
 
 ## 视频完整大纲
