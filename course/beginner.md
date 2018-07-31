@@ -6,6 +6,8 @@
 ## 适合人群
 本课程是零基础入门课，适合所有想进入区块链世界的开发人员及学生群体。
 
+如果你对智能合约开发感兴趣，可以进一步学习[深入详解以太坊智能合约语言Solidity](https://wiki.learnblockchain.cn/course/solidity.html)及[通过代币学以太坊智能合约开发](https://wiki.learnblockchain.cn/course/token.html)
+
 
 ## 课程介绍
 区块链是每个人都应该了解的技术趋势，也是难得的技术浪潮机会。
