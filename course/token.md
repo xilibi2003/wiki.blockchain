@@ -36,5 +36,3 @@
 
 ### 方式3：土豪直接购买
 不方便转发的同学，可直接付费听课，请点击[视频课程地址](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000001541262578)，扫码登录购买即可观看。
-
-
