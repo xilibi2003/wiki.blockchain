@@ -40,3 +40,16 @@
 4. 区块链应用的项目探索（基于EOS、FIBOS和IPFS 应用）
 
 [点击下载PPT](https://wiki.learnblockchain.cn/pdf/meeting_3.pdf) 及 [现场视频](https://m.qlchat.com/live/channel/channelPage/2000002746846802.htm)
+
+
+### [第四期] 以太坊零手续费及其安全防御的实现
+讲师：以太零CTO 钟瑞仙
+
+主要内容：
+一、以太坊⼿手续费简介
+二、零⼿手续费的必要性
+三、零⼿手续费的实现
+四、零⼿手续费带来的安全问题及其解决⽅方案
+五、零⼿手续费的副作⽤用
+
+[点击下载PPT](https://wiki.learnblockchain.cn/pdf/meetup_4.pdf) 及 [现场视频](https://m.qlchat.com/topic/details-audio-graphic?topicId=2000002858836179)
