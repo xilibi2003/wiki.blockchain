@@ -9,13 +9,14 @@
 讲师：以太零CTO 钟瑞仙
 
 主要内容：
-一、以太坊⼿手续费简介
-二、零⼿手续费的必要性
-三、零⼿手续费的实现
-四、零⼿手续费带来的安全问题及其解决⽅方案
-五、零⼿手续费的副作⽤用
 
-[点击下载PPT](https://wiki.learnblockchain.cn/pdf/meetup_4.pdf) 及 [现场视频](https://m.qlchat.com/topic/details-audio-graphic?topicId=2000002858836179)
+1. 以太坊⼿手续费简介
+2. 零⼿手续费的必要性
+3. 零⼿手续费的实现
+4. 零⼿手续费带来的安全问题及其解决⽅方案
+5. 零⼿手续费的副作⽤
+
+[点击下载PPT](https://wiki.learnblockchain.cn/pdf/meetup_4.pdf) 及 [现场视频](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000002858537956)
 
 ### [第三期]高TPS与去中心化存储带来的机遇
 讲师：星际区块（深圳）CEO 谢建怀
