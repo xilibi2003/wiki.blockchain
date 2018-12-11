@@ -1,9 +1,12 @@
-### 区块链技术工坊
+### 区块链技术工坊 - 线下区块链技术分享
 
-区块链技术工坊主要由HiBlock社区发起，在全国各主要城市每周举办线下区块链分享活动。深圳地区由HiBlock、小牛新能源、[登链学院](https://m.qlchat.com/wechat/page/live/2000001359172588)联合主办。
+区块链技术工坊由一群热爱区块链技术的开发者组织，在全国各主要城市每周举办线下区块链技术分享活动。深圳地区由HiBlock、小牛新能源、[登链学院](https://m.qlchat.com/wechat/page/live/2000001359172588)联合主办，由以太零、Qtum、FIBOS、AckBlock、HPB赞助。
 
+区块链技术工坊坚持聚焦区块链技术分享，以技术会友，最新一期交流DAPP开发，[报名戳链接](http://hiblock.huodongxing.com/event/6469223717911?utm_source=%E4%B8%BB%E5%8A%9E%E6%96%B9%E9%A1%B5&utm_medium=&utm_campaign=orgpage)。
 
-各期内容如下：
+欢迎大家关注微信：upchainedu 及时获取活动信息。
+
+以往各期内容如下：
 
 ### [第四期] 以太坊零手续费及其安全防御的实现
 讲师：以太零CTO 钟瑞仙
