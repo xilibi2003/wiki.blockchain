@@ -2,11 +2,24 @@
 
 区块链技术工坊由一群热爱区块链技术的开发者组织，在全国各主要城市每周举办线下区块链技术分享活动。深圳地区由HiBlock、小牛新能源、[登链学院](https://m.qlchat.com/wechat/page/live/2000001359172588)联合主办，由以太零、Qtum、FIBOS、AckBlock、HPB赞助。
 
-区块链技术工坊坚持聚焦区块链技术分享，以技术会友，最新一期交流DAPP开发，[报名戳链接](http://hiblock.huodongxing.com/event/6469223717911?utm_source=%E4%B8%BB%E5%8A%9E%E6%96%B9%E9%A1%B5&utm_medium=&utm_campaign=orgpage)。
+区块链技术工坊坚持聚焦区块链技术分享，以技术会友，最新一期交流DAG技术，[报名戳链接](http://hiblock.huodongxing.com/event/7470262312411)。
 
 欢迎大家关注微信：upchainedu 及时获取活动信息。
 
 以往各期内容如下：
+
+### [第五期] 搞明白以太坊DAPP开发
+
+讲师：登链学院 Tiny熊
+
+分享大纲：
+
+1. DAPP与APP 的区别
+2. 智能合约开发简介
+3. web3.js 与 合约交互
+4. MetaMask, Remix , Truffle，Ganache 使用
+
+[点击下载PPT](https://wiki.learnblockchain.cn/pdf/meetup_5.pdf) 及 [现场视频](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000002953398745
 
 ### [第四期] 以太坊零手续费及其安全防御的实现
 讲师：以太零CTO 钟瑞仙
@@ -47,10 +60,10 @@
 
 ### [第一期]以太坊钱包开发
 
-讲师：登链学院 熊丽兵
+讲师：登链学院 Tiny熊
 
 分享大纲：
-1.  私钥 地址 及账号；
+1. 私钥 地址 及账号；
 2. 什么是HD钱包（分层确定性钱包）；
 3. 助记词及私钥保存
 4. 如何测量gasLimit及设定gasPrice;
