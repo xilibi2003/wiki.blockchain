@@ -1,7 +1,7 @@
 {
     "root": "./",
     "title": "区块链技术导航",
-    "description": "整理博客文章，区块链技术工坊，区块链相关术语、书籍、文档，开发资料，开源项目等",
+    "description": "资源索引 区块链相关术语 书籍 文档 开发资料 开源项目等",
     "author": "深入浅出区块链",
 
     "gitbook": ">= 3.0.0",
@@ -84,7 +84,7 @@
         "fontsettings": {
             "theme": "white",
             "family": "serif",
-            "size": 2
+            "size": 1
         },
         "prism": {
             "css": [
