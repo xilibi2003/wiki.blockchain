@@ -1,21 +1,21 @@
 {
     "root": "./",
-    "title": "深入浅出区块链文档",
+    "title": "区块链技术导航",
     "description": "整理博客文章，区块链技术工坊，区块链相关术语、书籍、文档，开发资料，开源项目等",
-    "author": "Tiny熊",
+    "author": "深入浅出区块链",
 
     "gitbook": ">= 3.0.0",
 
     "language": "zh-hans",
     "links": {
         "sidebar": {
-            "博客主页": "https://learnblockchain.cn"
+            "深入浅出区块链": "https://learnblockchain.cn"
         }
     },
 
     "plugins": [
         "github",
-        "donate",
+        "-donate",
         "splitter",
         "anchors",
         "anchor-navigation-ex",
@@ -83,7 +83,7 @@
         },
         "fontsettings": {
             "theme": "white",
-            "family": "sans",
+            "family": "serif",
             "size": 2
         },
         "prism": {
@@ -92,7 +92,7 @@
             ]
         },
         "tbfed-pagefooter": {
-            "copyright": " &copy 2018 Tiny熊",
+            "copyright": " &copy 2019 Tiny熊",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm"
         },
