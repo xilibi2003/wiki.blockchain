@@ -3,6 +3,7 @@
 * [比特币](bitcoin/readme.md)
     * [比特币术语](bitcoin/GLOSSARY.md)
 * [以太坊](ethereum/readme.md)
+    * [开发文档](ethereum/dev.md)
     * [以太坊术语](bitcoin/GLOSSARY.md)
 * [柚子EOS](eos/readme.md)
 * [超级账本](hyperledger/readme.md)

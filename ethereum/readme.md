@@ -1,31 +1,28 @@
 #以太坊开发资源汇总
 
+以太坊开发资源超级汇总导航站，你想知道的以太坊资源都在这里。
 
-* [以太坊官网](https://www.ethereum.org/)
 
-* [Truffle](https://github.com/trufflesuite/truffle)
+## 优秀博客文章
 
-* [以太坊官方博客](https://blog.ethereum.org)
-* [以太坊官方Wiki](https://github.com/ethereum/wiki/wiki)
+### 入门
+* [以太坊是什么](https://learnblockchain.cn/2017/11/20/whatiseth/): 入门介绍以太坊
+* [智能合约开发入门](https://learnblockchain.cn/2017/11/24/init-env/)
+* [开发第一个DAPP](https://learnblockchain.cn/2018/01/12/first-dapp/)
 
-## 文档
 
+### 原理 剖析
+
+[以太坊代码剖析](https://ethfans.org/topics/227)
+
+## 开发图书
 
 * [区块链技术指南](http://book.8btc.com/books/6/blockchain_guide/_book/)
-* [以太坊白皮书中文版](http://ethfans.org/posts/ethereum-whitepaper)
-* [以太坊官网文档中文版](http://book.8btc.com/books/6/ethereum/_book/)
-* [以太坊白皮书中文版](http://ethfans.org/posts/ethereum-whitepaper)
-* [以太坊 Homestead 文档](http://ethdoc.cn/)
-* [Solidity文档](https://solidity.readthedocs.io/en/latest/)
-* [Viper官方文档](https://viper.readthedocs.io/en/latest/index.html)
-* [Truffle官方文档](http://truffleframework.com/docs/)
-* [Remix 文档](https://remix.readthedocs.io/en/latest/)
-* [Dapps新手入门](https://dappsforbeginners.wordpress.com/)
-* [Gas 消耗](OPCODE_Gas.pdf)
+* [精通智能合约开发](http://edu.upchain.pro/book.html)
+
+## 视频
+
+[](https://www.youtube.com/watch?v=t3wM5903ty0)
 
 
-## 工具篇
-* [Solidity实时编译器](https://ethereum.github.io/browser-solidity)
-* [以太坊信息查询etherscan](http://etherscan.io/)
-* [以太坊状态-ethstats](https://ethstats.net/):以太坊网络的实时统计网站，网站上显示了诸如当前块、哈希难度、gas价格和gas消耗等信息。
 
