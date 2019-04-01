@@ -26,6 +26,10 @@
 * [Geth 命令行使用说明](https://github.com/ethereum/go-ethereum/wiki/Command-Line-Options)
 * [JSON RPC 接口说明](https://github.com/ethereum/wiki/wiki/JSON-RPC)
 
+## EIP 提案
+
+- [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) 以太坊的ICO代币标准
+
 ## 智能合约开发
 
 * [Solidity文档](https://solidity.readthedocs.io/en/latest/)
@@ -33,13 +37,17 @@
 * [Viper官方文档](https://viper.readthedocs.io/en/latest/index.html)
 * [Remix 文档](https://remix.readthedocs.io/en/latest/)
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) : 一套智能合约指导实现及开发库
+* [Open Zeppelin框架文档](http://zeppelin.tryblockchain.org/) 中文版
+
 
 ## Web3
 
 * [web3.js - 1.0 文档](https://web3js.readthedocs.io/en/1.0/)
 * [web3.js - 0.20 文档](https://web3js.readthedocs.io/en/1.0/)
+* [Web3.js 接口文档](https://web3.learnblockchain.cn/) 接口中文手册
 * [web3j - GitHub](https://github.com/web3j/web3j) : Web3 Java 版本
 * [web3j - 文档](https://docs.web3j.io/)
+* [Web3Swift](https://github.com/BANKEX/web3swift) 一个Web3的swift SDK
 
 ## DAPP 开发框架
 
@@ -47,8 +55,12 @@
 * [Truffle 官网](https://truffleframework.com/)
 * [Truffle官方文档](http://truffleframework.com/docs/)
 * [Truffle](https://github.com/trufflesuite/truffle)
+* [Truffle框架文档](http://truffle.tryblockchain.org/) 框架中文手册
+
+## 第三方服务接口
 
 
+- [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) Ethplorer接口文档
 
 
 ## 工具篇

@@ -8,6 +8,9 @@
 * [比特币官网](https://bitcoin.org/zh_CN/)
 
 
+* [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) Cousera上的比特币教程 *(English)*
+
+
 ## 实现简单区块链
 
 * 简单的区块链Go实现
@@ -17,4 +20,8 @@
 * 简单的区块链Python实现
    [github地址](https://github.com/xilibi2003/blockchain)
 
+
+
+
+- [比特币0.1](https://github.com/fkysly/bitcoin0.1.0) 最原始的比特币代码
 
