@@ -1,8 +1,9 @@
 # 区块链技术导航
-* [导航介绍](README.md)
+* [区块链技术导航](README.md)
 * [比特币](bitcoin/readme.md)
     * [比特币术语](bitcoin/GLOSSARY.md)
 * [以太坊](ethereum/readme.md)
+    * [以太坊资源汇总](ethereum/readme.md)   
     * [开发文档](ethereum/dev.md)
     * [以太坊术语](bitcoin/GLOSSARY.md)
 * [柚子EOS](eos/readme.md)

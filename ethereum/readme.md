@@ -1,6 +1,11 @@
-#以太坊开发资源汇总
+# Awesome Ethereum 以太坊开发资源汇总 
 
 以太坊开发资源超级汇总导航站，你想知道的以太坊资源都在这里。
+Awesome Ethereum 分为三部分：
+* [开发介绍篇](https://wiki.learnblockchain.cn/ethereum/readme.html)
+* [SDK文档篇](https://wiki.learnblockchain.cn/ethereum/dev.html)
+* [以太坊术语篇](https://wiki.learnblockchain.cn/bitcoin/GLOSSARY.html)
+
 
 
 ## 优秀博客文章
@@ -17,9 +22,10 @@
 * [Web3与智能合约交互实战](https://learnblockchain.cn/2018/04/15/web3-html/)
 * [Web3监听合约事件](https://learnblockchain.cn/2018/05/09/solidity-event/)
 * [如何搭建以太坊私有链](https://learnblockchain.cn/2018/03/18/create_private_blockchain/) 
-* [如何开发以太坊钱包](https://learnblockchain.cn/2018/10/25/eth-web-wallet_1/) 这是一个钱包开发系列
+* [如何开发以太坊钱包](https://learnblockchain.cn/2018/10/25/eth-web-wallet_1/) 如何开发钱包系列博客文章
 
 ### 原理 剖析
+
 * [深入了解以太坊虚拟机](https://lilymoana.github.io/evm_part1.html) 一共有5遍
 * [以太坊的工作原理](https://lilymoana.github.io/ethereum_theory.html)
 * [以太坊设计原理](http://ethfans.org/posts/510)
@@ -68,6 +74,7 @@
 
 
 ## 最新研究
+
 - [eWASM](https://github.com/ewasm/design) 让以太坊支持WebAssembly
 - [FSolidM](https://cps-vo.org/group/SmartContracts) 可视化智能合约生成工具 [源码](https://github.com/anmavrid/smart-contracts)
 - [Maian](https://github.com/MAIAN-tool/MAIAN) 以太坊智能合约漏洞查找工具
@@ -90,6 +97,6 @@
 
 ## 其他
 
-- [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集*(English)*
-
+- [EthList](https://github.com/Scanate/EthList) 老外收集的以太坊开发相关学习资料*(English)*
+- [Awesome-Ethereum](https://github.com/Tom2718/Awesome-Ethereum) 老外收集的以太坊
 
