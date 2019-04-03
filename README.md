@@ -1,8 +1,9 @@
 ### 区块链技术导航站  Awesome Blockchain
 
-收集整理最全面的区块链(BlockChain)技术开发相关资源，为区块链学习提供检索、导航服务，各位收藏。
+收集整理最全面最优质的区块链(BlockChain)技术开发相关资源，欢迎收藏。
 
-原博客说明指引已[迁移](https://learnblockchain.cn/2018/01/11/guide/)
+[比特币](bitcoin/readme.md) | [以太坊](ethereum/readme.md) | [柚子EOS](eos/readme.md) | [超级账本](hyperledger/readme.md) | [IPFS/FileCoin](ipfs/readme.md)| [跨链](cross-chain/readme.md) | [匿名币](anonymous/readme.md) | [新技术](future/readme.md) | [课程学习](course/courses.md) | [社区](community/readme.md)
+
 
 
 **建站初衷**

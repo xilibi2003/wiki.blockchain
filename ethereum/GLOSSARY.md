@@ -1,5 +1,10 @@
-## 以太坊术语
+## 以太坊术语篇
 
+Awesome Ethereum 分为三部分：
+* [开发介绍篇](ethereum/readme.md)
+* [SDK文档篇](ethereum/dev.md)
+* [以太坊术语篇](ethereum/GLOSSARY.md)
+* 
 区块链技术相关表包含了常见的区块链术语（概念）及其解释，及进一步阅读参考文章，以加深理解。
 方便大家阅读博客或网络上其他文章时做快速索引，比特币相关术语参考[比特币篇](http://wiki.learnblockchain.cn/bitcoin/GLOSSARY.html)
 

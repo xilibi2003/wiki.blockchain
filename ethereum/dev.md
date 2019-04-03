@@ -1,7 +1,11 @@
 
-## 开发文档
+## 开发文档篇
 
-本篇主要是 API SDK 或 框架使用文档索引收集， 
+本篇主要是 API SDK 或 框架使用文档索引收集
+Awesome Ethereum 分为三部分：
+* [开发介绍篇](ethereum/readme.md)
+* [SDK文档篇](ethereum/dev.md)
+* [以太坊术语篇](ethereum/GLOSSARY.md)
 
 
 ## 以太坊官方文档
