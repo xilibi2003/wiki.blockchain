@@ -1,4 +1,4 @@
-### 区块链技术导航站  Awesome Blockchain
+### 区块链技术导航站  [Awesome Blockchain](https://github.com/xilibi2003/wiki.blockchain)
 
 收集整理最全面最优质的区块链(BlockChain)技术开发相关资源，欢迎收藏。
 
@@ -6,9 +6,6 @@
 
 
 
-**建站初衷**
-
-区块链的内容繁多，经常遇到找一个内容找半天找不到，尤其是很多资料是英文的，更增加了查找的难度，
 
 **本站内容**
 
@@ -23,8 +20,7 @@
 
 #### 贡献
 
-本站有由一群区块链技术爱好者共同维护，如果你有发现好内容，欢迎提交Pull Request.
-[GitHub](https://github.com/xilibi2003/wiki.blockchain)
+本站有由一群区块链技术爱好者共同维护，欢迎大家提交内容，我们会第一时间处理，大家可以提交[Issues](https://github.com/xilibi2003/wiki.blockchain/issues)，也可以提交[Pull Request](https://github.com/xilibi2003/wiki.blockchain)，这里还有一个份如何贡献[操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
 
 
