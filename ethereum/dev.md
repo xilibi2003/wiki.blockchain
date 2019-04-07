@@ -63,16 +63,18 @@ Awesome Ethereum 分为三部分：
 
 ## 第三方服务接口
 
-
 - [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) Ethplorer接口文档
+- [ethgasAPI](https://ethgasstation.info/json/ethgasAPI.json) 查Gas价格Api
 
 
 ## 工具篇
 * [以太坊信息查询etherscan](http://etherscan.io/) 以太坊区块浏览器
 * [以太坊状态-ethstats](https://ethstats.net/):以太坊网络的实时统计网站，网站上显示了诸如当前块、哈希难度、gas价格和gas消耗等信息。
-- [ETH Gas Station](https://ethgasstation.info/) 查Gas 价格
 - [Ethplorer](https://ethplorer.io/) - 以太坊区块浏览器
 - [Etherchain](https://www.etherchain.org/) - 以太坊区块浏览器
+- [etherscan gastracker](https://etherscan.io/gastracker)
+- [gasPriceOracle](https://www.etherchain.org/tools/gasPriceOracle) 
+- [ETH Gas Station](https://ethgasstation.info/) 查Gas 价格
 
 ## 其他
 
