@@ -6,8 +6,8 @@
 
 ## 开发入门
 
- [超级账本hyperledger fabirc1.1 入门教程](https://github.com/itheima1/hyperledger)
- [ubuntu16.04 的 hyperledger fabric1.4 搭建](https://blog.csdn.net/smallone233/article/details/86569536)
+ * [超级账本hyperledger fabirc1.1 入门教程](https://github.com/itheima1/hyperledger)
+ * [ubuntu16.04 的 hyperledger fabric1.4 搭建](https://blog.csdn.net/smallone233/article/details/86569536)
  
 ## 开发文档
 
@@ -29,7 +29,7 @@
 
 ## 源码分析
 
-[Fabric源码分析](https://yeasy.gitbooks.io/hyperledger_code_fabric/content/)
+* [Fabric源码分析](https://yeasy.gitbooks.io/hyperledger_code_fabric/content/)
 
 ## 博客推荐
 
