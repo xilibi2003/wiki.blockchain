@@ -16,11 +16,13 @@ Awesome Ethereum 分为三部分：
 * [创建自己的数字货币（代币）进行ICO](https://learnblockchain.cn/2018/01/12/create_token/)
 * [如何通过以太坊智能合约来进行众筹（ICO）](https://learnblockchain.cn/2018/02/28/ico-crowdsale/)
 * [实现一个可管理、增发、兑换、冻结等高级功能的代币](https://learnblockchain.cn/2018/01/27/create-token2/)
+* [程序员如何切入区块链去中心化应用开发](https://learnblockchain.cn/2018/08/31/devDapp/#more)
 * [开发第一个DAPP](https://learnblockchain.cn/2018/01/12/first-dapp/)
 * [开发一个链上记事本](https://learnblockchain.cn/2019/03/30/dapp_noteOnChain/)
 * [Web3与智能合约交互实战](https://learnblockchain.cn/2018/04/15/web3-html/)
 * [Web3监听合约事件](https://learnblockchain.cn/2018/05/09/solidity-event/)
 * [如何搭建以太坊私有链](https://learnblockchain.cn/2018/03/18/create_private_blockchain/) 
+* [如何编写一个可升级的智能合约](https://learnblockchain.cn/2018/03/15/contract-upgrade/)
 * [如何开发以太坊钱包](https://learnblockchain.cn/2018/10/25/eth-web-wallet_1/) 如何开发钱包系列博客文章
 
 ### 原理 剖析
@@ -29,6 +31,34 @@ Awesome Ethereum 分为三部分：
 * [以太坊的工作原理](https://lilymoana.github.io/ethereum_theory.html)
 * [以太坊设计原理](http://ethfans.org/posts/510)
 * [以太坊代码剖析](https://ethfans.org/topics/227)
+
+### 合约安全
+
+* [美链BEC合约漏洞技术分析](https://learnblockchain.cn/2018/04/25/bec-overflow/)
+
+### 智能合约Solidity开发
+
+* [剖析非同质化代币ERC721--全面解析ERC721标准](https://learnblockchain.cn/2018/03/23/token-erc721/)
+
+### Solidity语言教程
+全面学习Solidity语言可以购买图书：[精通以太坊智能合约](http://www.upchain.pro/book.html)
+
+* [Solidity  类型介绍](https://learnblockchain.cn/2017/12/05/solidity1/)
+* [Solidity 教程系列2 - 地址类型介绍](https://learnblockchain.cn/2017/12/12/solidity2/)
+* [Solidity 教程系列3 - 函数类型介绍](https://learnblockchain.cn/2017/12/12/solidity_func/)
+* [Solidity 教程系列4 - 数据存储位置分析](https://learnblockchain.cn/2017/12/21/solidity_reftype_datalocation/)
+* [Solidity 教程系列5 - 数组介绍](https://learnblockchain.cn/2017/12/21/solidity-arrays/)
+* [Solidity 教程系列6 - 结构体与映射](https://learnblockchain.cn/2017/12/27/solidity-structs/)
+* [Solidity 教程系列7 - 以太单位及时间单位](https://learnblockchain.cn/2018/02/02/solidity-unit/)
+* [Solidity 教程系列8 - Solidity API](https://learnblockchain.cn/2018/03/14/solidity-api/)
+* [Solidity 教程系列9 - 错误处理](https://learnblockchain.cn/2018/04/07/solidity-errorhandler/)
+* [Solidity 教程系列10 - 完全理解函数修改器](https://learnblockchain.cn/2018/04/09/solidity-modify/)
+* [Solidity 教程系列11 - 视图函数、虚函数讲解](https://learnblockchain.cn/2018/05/17/solidity-functions/)
+* [Solidity 教程系列12 - 库的使用](https://learnblockchain.cn/2018/08/09/solidity-library/)
+* [Solidity 教程系列13 - 函数调用](https://learnblockchain.cn/2018/08/09/solidity-callfun/)
+* [智能合约最佳实践 之 Solidity 编码规范](https://learnblockchain.cn/2018/05/04/solidity-style-guide/)
+* [如何理解以太坊ABI - 应用程序二进制接口](https://learnblockchain.cn/2018/08/09/understand-abi/)
+
 
 
 ### 钱包 Wallet
