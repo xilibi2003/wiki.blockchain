@@ -4,6 +4,11 @@
 
 如何理解区块链、它将对社区、经济产生哪些影响，一切都从比特币开始。
 
+Awesome Bitcoin 分为三部分：
+* [入门篇](bitcoin/readme.md)
+* [比特币扩容篇](bitcoin/lightning.md)
+* [比特币术语篇](bitcoin/GLOSSARY.md)
+
 
 ## 理解区块链
 

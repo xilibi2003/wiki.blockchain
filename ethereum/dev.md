@@ -78,7 +78,7 @@ Awesome Ethereum 分为三部分：
 
 ## 其他
 
-* [Gas 消耗](OPCODE_Gas.pdf)
+* [EVM 指令 opcode Gas 消耗 参考表](https://img.learnblockchain.cn/pdf/OPCODE_Gas.pdf)
 
 
 
