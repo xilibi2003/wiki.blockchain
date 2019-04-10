@@ -2,9 +2,9 @@
 
 以太坊开发资源超级汇总导航站，你想知道的以太坊资源都在这里。
 Awesome Ethereum 分为三部分：
-* [开发介绍篇](ethereum/readme.md)
-* [SDK文档篇](ethereum/dev.md)
-* [以太坊术语篇](ethereum/GLOSSARY.md)
+* [开发介绍篇](https://wiki.learnblockchain.cn/ethereum/readme.html)
+* [SDK文档篇](https://wiki.learnblockchain.cn/ethereum/dev.html)
+* [以太坊术语篇](https://wiki.learnblockchain.cn/bitcoin/GLOSSARY.html)
 
 
 ## 优秀博客文章
