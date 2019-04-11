@@ -373,6 +373,7 @@
 |	selecting	|	选择	|
 |	soft limit 	|	软限制	|
 |	Segregated Witness(SegWit)	|	隔离见证	|
+| Sharding | 分片技术 |
 |	SHA256	|	SHA256	|
 |	SHA3 algorithm	|	SHA3算法	|
 |	Shared Permission Blockchain	|	共享认证型区块链	|
