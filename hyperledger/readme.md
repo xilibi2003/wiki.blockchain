@@ -12,6 +12,7 @@
 ## 开发文档
 
 - [Fabric Official Docs](https://hyperledger-fabric.readthedocs.io/en/latest/) Fabric官方最新文档
+- [Fabric 中文文档](https://fabric-chs.readthedocs.io/zh_CN/chs/)
 - [Hyperledger Fabric API](https://github.com/hyperledger/fabric-api)
 - [Fabric Java SDK](https://github.com/hyperledger/fabric-sdk-java)
 - [Fabric Python SDK](https://github.com/hyperledger/fabric-sdk-py)

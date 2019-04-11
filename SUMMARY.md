@@ -4,6 +4,7 @@
     * [区块链入门/比特币](bitcoin/readme.md)
     * [比特币闪电网络](bitcoin/lightning.md)   
     * [比特币术语](bitcoin/GLOSSARY.md)
+    * [区块链英文术语-中文对照](bitcoin/en-zh.md)
 * [以太坊](ethereum/readme.md)
     * [以太坊资源汇总](ethereum/readme.md)   
     * [开发文档](ethereum/dev.md)
