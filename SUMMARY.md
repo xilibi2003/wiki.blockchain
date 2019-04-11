@@ -16,6 +16,7 @@
 * [IPFS/FileCoin](ipfs/readme.md)
 * [跨链](cross-chain/readme.md)
 * [匿名币](anonymous/readme.md)
+* [交易所](exchange/readme.md)
 * [技术动向](future/readme.md)
 * [课程学习](course/courses.md)
 * [社区](community/readme.md)
