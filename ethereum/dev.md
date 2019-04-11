@@ -60,6 +60,7 @@ Awesome Ethereum 分为三部分：
 * [Truffle官方文档](http://truffleframework.com/docs/)
 * [Truffle](https://github.com/trufflesuite/truffle)
 * [Truffle框架文档](http://truffle.tryblockchain.org/) 框架中文手册
+* [Embark框架](https://github.com/embark-framework/embark)
 
 ## 第三方服务接口
 

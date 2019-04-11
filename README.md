@@ -24,7 +24,7 @@
 
 
 
-
+尊重汗水，转载请注明来自 [深入浅出区块链](https://learnblockchain.cn) - [技术导航站](https://wiki.learnblockchain.cn/)。
 
 
 

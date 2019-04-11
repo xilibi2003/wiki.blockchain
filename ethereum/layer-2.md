@@ -22,6 +22,7 @@ Plasma 以太坊的二层扩容框架
 * [深入理解Plasma（二）Plasma 细节](https://learnblockchain.cn/2018/10/24/plasma-in-detail/)
 * [深入理解Plasma（三）Plasma MVP](https://learnblockchain.cn/2018/11/03/plasma-mvp/)
 * [深入理解Plasma（四）Plasma Cash](https://learnblockchain.cn/2018/11/16/plasma-cash/)
+* [plasma-core 文档](https://plasma-core.readthedocs.io/en/latest/index.html)
 
 ## [Loom Network](https://loomx.io/)
 
