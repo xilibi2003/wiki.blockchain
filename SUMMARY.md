@@ -8,6 +8,7 @@
 * [以太坊](ethereum/readme.md)
     * [以太坊资源汇总](ethereum/readme.md)   
     * [开发文档](ethereum/dev.md)
+    * [以太坊扩容技术](ethereum/layer-2.md)
     * [以太坊术语](bitcoin/GLOSSARY.md)
 * [柚子EOS](eos/readme.md)
 * [超级账本](hyperledger/readme.md)
