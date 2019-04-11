@@ -1,4 +1,4 @@
-# 扩容技术 Awesome Layer2 - Part1
+# 以太坊扩容技术 Awesome Layer2
 
 以太坊扩容技术汇总，目前扩容技术主要有：分片（Sharding）和 分层（链下扩容技术）
 链下扩容技术主要有：状态通道（ State Channels） 、侧链、链下计算。
@@ -7,8 +7,8 @@
 
 扩容技术设计的项目非常多，本文分二个部分：
 
-1. [Part1](https://wiki.learnblockchain.cn/ethereum/layer-2.html)
-2. [Part2](https://wiki.learnblockchain.cn/ethereum/layer-2-more.html)
+1. [Part1](https://wiki.learnblockchain.cn/ethereum/layer-2.html) 热门扩容项目
+2. [Part2](https://wiki.learnblockchain.cn/ethereum/layer-2-more.html) 其他扩容项目
 
 在比特币[闪电网络](https://wiki.learnblockchain.cn/bitcoin/lightning.html) 也属于扩容技术，在[比特币分类下](https://wiki.learnblockchain.cn/bitcoin/lightning.html) 有单独介绍。
 

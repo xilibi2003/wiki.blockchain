@@ -1,11 +1,11 @@
-# 扩容技术 Awesome Layer2 - Part2
+# 以太坊扩容技术 Awesome Layer2
 
 扩容技术设计的项目非常多，本文分二个部分：
 
-1. [Part1](https://wiki.learnblockchain.cn/ethereum/layer-2.html)
-2. [Part2](https://wiki.learnblockchain.cn/ethereum/layer-2-more.html)
+1. [Part1](https://wiki.learnblockchain.cn/ethereum/layer-2.html) 热门扩容项目
+2. [Part2](https://wiki.learnblockchain.cn/ethereum/layer-2-more.html) 其他扩容项目
 
-本文是Part2.
+本文是第二部分。
 
 ## 扩容技术相关项目
 
