@@ -1,5 +1,7 @@
 ### 区块链技术导航站  [Awesome Blockchain](https://github.com/xilibi2003/wiki.blockchain)
 
+**警告**：本库将不在更新，已迁移到[深入浅出区块链团队](https://github.com/lbc-team)号
+
 收集整理最全面最优质的区块链(BlockChain)技术开发相关资源，欢迎收藏。
 
 [区块链入门及比特币](bitcoin/readme.md) | [以太坊](ethereum/readme.md) | [柚子EOS](eos/readme.md) | [超级账本](hyperledger/readme.md) | [IPFS/FileCoin](ipfs/readme.md)| [跨链](cross-chain/readme.md) | [匿名币](anonymous/readme.md) | [新技术](future/readme.md) | [课程学习](course/courses.md) | [社区](community/readme.md)
